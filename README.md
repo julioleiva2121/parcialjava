@@ -13,7 +13,6 @@
 1.  **Descarga (Clona) el Proyecto:**
     Abre tu terminal y usa:
     `git clone https://github.com/julioleiva2121/parcialjava
-    (¡Reemplaza con tu URL de GitHub!)
     Luego, entra a la carpeta: `cd GestionBiblioteca`
 
 3.  **Ejecuta (Opción 1 - IntelliJ IDEA):**
